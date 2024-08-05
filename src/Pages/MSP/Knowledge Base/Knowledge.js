@@ -1,0 +1,123 @@
+const records = [
+  {
+    title: "Learning React",
+    author: "Alex Banks",
+    createdDate: "2023-01-01",
+    category: "Programming",
+  },
+  {
+    title: "JavaScript: The Good Parts",
+    author: "Douglas Crockford",
+    createdDate: "2022-12-12",
+    category: "Programming",
+  },
+  {
+    title: "Eloquent JavaScript",
+    author: "Marijn Haverbeke",
+    createdDate: "2022-11-11",
+    category: "Programming",
+  },
+  {
+    title: "You Don't Know JS",
+    author: "Kyle Simpson",
+    createdDate: "2022-10-10",
+    category: "Programming",
+  },
+  {
+    title: "JavaScript Patterns",
+    author: "Stoyan Stefanov",
+    createdDate: "2022-09-09",
+    category: "Programming",
+  },
+  {
+    title: "JavaScript: The Definitive Guide",
+    author: "David Flanagan",
+    createdDate: "2022-08-08",
+    category: "Programming",
+  },
+  {
+    title: "Secrets of the JavaScript Ninja",
+    author: "John Resig",
+    createdDate: "2022-07-07",
+    category: "Programming",
+  },
+  {
+    title: "JavaScript and JQuery",
+    author: "Jon Duckett",
+    createdDate: "2022-06-06",
+    category: "Programming",
+  },
+  {
+    title: "JavaScript: The Good Parts",
+    author: "Douglas Crockford",
+    createdDate: "2022-05-05",
+    category: "Programming",
+  },
+  {
+    title: "JavaScript Cookbook",
+    author: "Shelley Powers",
+    createdDate: "2022-04-04",
+    category: "Programming",
+  },
+  {
+    title: "Professional JavaScript for Web Developers",
+    author: "Nicholas C. Zakas",
+    createdDate: "2022-03-03",
+    category: "Programming",
+  },
+  {
+    title: "High Performance JavaScript",
+    author: "Nicholas C. Zakas",
+    createdDate: "2022-02-02",
+    category: "Programming",
+  },
+  {
+    title: "Effective JavaScript",
+    author: "David Herman",
+    createdDate: "2022-01-01",
+    category: "Programming",
+  },
+  {
+    title: "JavaScript: The New Toys",
+    author: "T.J. Crowder",
+    createdDate: "2021-12-12",
+    category: "Programming",
+  },
+  {
+    title: "Modern JavaScript",
+    author: "Larry Ullman",
+    createdDate: "2021-11-11",
+    category: "Programming",
+  },
+  {
+    title: "JavaScript Step by Step",
+    author: "Steve Suehring",
+    createdDate: "2021-10-10",
+    category: "Programming",
+  },
+  {
+    title: "Understanding ECMAScript 6",
+    author: "Nicholas C. Zakas",
+    createdDate: "2021-09-09",
+    category: "Programming",
+  },
+  {
+    title: "Speaking JavaScript",
+    author: "Axel Rauschmayer",
+    createdDate: "2021-08-08",
+    category: "Programming",
+  },
+  {
+    title: "JavaScript Everywhere",
+    author: "Adam D. Scott",
+    createdDate: "2021-07-07",
+    category: "Programming",
+  },
+  {
+    title: "JavaScript for Impatient Programmers",
+    author: "Axel Rauschmayer",
+    createdDate: "2021-06-06",
+    category: "Programming",
+  },
+];
+export default records;

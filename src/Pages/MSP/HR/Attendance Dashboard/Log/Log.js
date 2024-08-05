@@ -1,0 +1,148 @@
+const data = [
+  {
+    displayName: "Rakesh Reddy",
+    date: "2024-07-01",
+    checkedIn: "08:30 AM",
+    checkedOut: "05:00 PM",
+  },
+  {
+    displayName: "Abhishek Jadhav",
+    date: "2024-07-01",
+    checkedIn: "09:00 AM",
+    checkedOut: "05:30 PM",
+  },
+  {
+    displayName: "Prashant Khamitkar",
+    date: "2024-07-01",
+    checkedIn: "08:45 AM",
+    checkedOut: "04:50 PM",
+  },
+  {
+    displayName: "Henna Bhatia",
+    date: "2024-07-02",
+    checkedIn: "08:15 AM",
+    checkedOut: "05:15 PM",
+  },
+  {
+    displayName: "Sarah Davis",
+    date: "2024-07-02",
+    checkedIn: "09:10 AM",
+    checkedOut: "06:00 PM",
+  },
+  {
+    displayName: "David Wilson",
+    date: "2024-07-02",
+    checkedIn: "08:50 AM",
+    checkedOut: "05:10 PM",
+  },
+  {
+    displayName: "Laura Martinez",
+    date: "2024-07-03",
+    checkedIn: "08:00 AM",
+    checkedOut: "04:30 PM",
+  },
+  {
+    displayName: "Daniel Lee",
+    date: "2024-07-03",
+    checkedIn: "09:20 AM",
+    checkedOut: "05:20 PM",
+  },
+  {
+    displayName: "Sophia Garcia",
+    date: "2024-07-03",
+    checkedIn: "08:35 AM",
+    checkedOut: "04:45 PM",
+  },
+  {
+    displayName: "James Anderson",
+    date: "2024-07-04",
+    checkedIn: "08:25 AM",
+    checkedOut: "05:05 PM",
+  },
+  {
+    displayName: "Olivia White",
+    date: "2024-07-04",
+    checkedIn: "09:05 AM",
+    checkedOut: "05:35 PM",
+  },
+  {
+    displayName: "William Harris",
+    date: "2024-07-04",
+    checkedIn: "08:40 AM",
+    checkedOut: "05:00 PM",
+  },
+  {
+    displayName: "Emma Lewis",
+    date: "2024-07-05",
+    checkedIn: "08:30 AM",
+    checkedOut: "05:00 PM",
+  },
+  {
+    displayName: "Liam Walker",
+    date: "2024-07-05",
+    checkedIn: "09:00 AM",
+    checkedOut: "06:00 PM",
+  },
+  {
+    displayName: "Ava Young",
+    date: "2024-07-05",
+    checkedIn: "08:45 AM",
+    checkedOut: "04:50 PM",
+  },
+  {
+    displayName: "Noah King",
+    date: "2024-07-06",
+    checkedIn: "08:15 AM",
+    checkedOut: "05:15 PM",
+  },
+  {
+    displayName: "Mia Scott",
+    date: "2024-07-06",
+    checkedIn: "09:10 AM",
+    checkedOut: "06:00 PM",
+  },
+  {
+    displayName: "Lucas Thompson",
+    date: "2024-07-06",
+    checkedIn: "08:50 AM",
+    checkedOut: "05:10 PM",
+  },
+  {
+    displayName: "Charlotte Green",
+    date: "2024-07-07",
+    checkedIn: "08:00 AM",
+    checkedOut: "04:30 PM",
+  },
+  {
+    displayName: "Ethan Adams",
+    date: "2024-07-07",
+    checkedIn: "09:20 AM",
+    checkedOut: "05:20 PM",
+  },
+  {
+    displayName: "Amelia Baker",
+    date: "2024-07-07",
+    checkedIn: "08:35 AM",
+    checkedOut: "04:45 PM",
+  },
+  {
+    displayName: "Henry Collins",
+    date: "2024-07-08",
+    checkedIn: "08:25 AM",
+    checkedOut: "05:05 PM",
+  },
+  {
+    displayName: "Isabella Nelson",
+    date: "2024-07-08",
+    checkedIn: "09:05 AM",
+    checkedOut: "05:35 PM",
+  },
+  {
+    displayName: "Alexander Mitchell",
+    date: "2024-07-08",
+    checkedIn: "08:40 AM",
+    checkedOut: "05:00 PM",
+  },
+];
+
+export default data;
